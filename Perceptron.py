@@ -1,11 +1,3 @@
-#------------------------------------
-# Instituto Federal do Espírito Santo
-#   Professora Mariana Rampinelli
-#    Disciplina: Redes Neurais
-#        Fernando Rosa Rocha
-#             Perceptron 
-#-----------------------------------
-
 #Inicialiação dos vetores dos pesos e de x
 
 vetx = [2, 1, 2, 1]
